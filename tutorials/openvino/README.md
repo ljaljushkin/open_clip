@@ -6,8 +6,8 @@ The Optimization consists from two steps:
 
 ## Prerequisites
 ```
-pip install -r requirements_openvino.txt
+pip install -r requirements.txt
 ```
 
 ## Accuracy validation
-To validate the accuracy of OpenVINO optimized models use the adapted version of CLIP_benchmark from [here](https://github.com/AlexKoff88/CLIP_benchmark/tree/openvino). Follow instruction from the README.md to run the benchmark.
+To validate the accuracy of OpenVINO optimized models use the adapted version of CLIP_benchmark from [here](https://github.com/AlexKoff88/CLIP_benchmark/tree/openvino_alt). Follow instruction from the README.md to run the benchmark.
